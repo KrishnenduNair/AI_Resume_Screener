@@ -6,7 +6,7 @@ A simple AI-powered resume screening tool that extracts and analyzes text from *
 - Upload and extract text from resumes (**PDF, DOCX, TXT**)  
 - Basic resume parsing and analysis  
 - FastAPI-based backend  
-- React Native frontend (if applicable)  
+- React Native frontend(to be added)  
 
 ## **Installation**  
 
