@@ -54,8 +54,4 @@ The following Python packages are required:
 Feel free to fork and contribute by submitting pull requests.  
 
 ## **License**  
-MIT License  
-
----
-
-You can save this as **README.md** and commit it. Let me know if you need more modifications!
+MIT License 
